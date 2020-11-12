@@ -6,8 +6,10 @@ This is my ReadME. It contains the case I'm working on with all the research and
 Frontend-data is the second part of the Tech Track course of CMD Amsterdam. 2020. It's a 6-week cycle with focus on visualising data with code. FP is given the first 2 weeks of the total course. To see my whole learning process and iterations, go to my [wiki](https://github.com/davidvanr21/functional-programming/wiki). Here, in my ReadME, you can read my main findings and decisions
 
 ## Description
+Watch my [VizHub](https://vizhub.com/davidvanr21) to check some visualisation I'm making with D3.
 
 ## Data
+I'm using the data from [RDW](https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2)
 
 ## Install
 Within 3 steps you can use my project and dive into the codelines.
